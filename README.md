@@ -4,7 +4,7 @@ RTFM
 DON'T
 =====
 Try to mention, share, fork, or anything this repo that coud expose it to the public.
-The entire idea of hiding in plain sight on github may be a very bad one, but hey, lets try.
+The entire idea of hiding in plain sight by being isolated on github may be a very bad one, but hey, lets try.
 
 To Join Us, Do the Following!
 =============================
