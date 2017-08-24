@@ -21,3 +21,7 @@ GitHub Account
 - Use an email address for the account that only you have access to and isn't likely to be seen by other curious parties.
 - By just placing a dot ( . ) in a gmail address you could register on github with the same email you may already be using for an existing acoount
 - Send me an email at hackmywifi@gmail.com containing your GitHub username and I'll drop you an invite.
+
+Seriously WTF are these Names?
+------------------------------
+...yeah the idea is using random strings, so any malicious party against our interests is VERY unlikely to find this organization or any members of it.
