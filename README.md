@@ -1,6 +1,7 @@
 # README - RTFM
 
 # ABOUT
+- The purpose of this organization is creating an online open-vote system for the 2018 Hungarian vote based election
 - This organization should only have GitHub users not connected to or known by any other organization or user.
 - This means fresh GitHub accounts should be created as explained below to join.
 - READ the Entire README before trying to Join!
