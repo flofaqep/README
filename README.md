@@ -4,12 +4,12 @@
 - This organization should only have GitHub users not connected to or known by any other organization or user.
 - This means fresh GitHub accounts should be created as explained below to join.
 - READ the Entire README before trying to Join!
+- Let me know if this idea of isolation-based security is bad :)
 Thank You!
 
 DON'T
 =====
 Try to mention, share, fork, or anything this repo that coud expose it to the public.
-The entire idea of hiding in plain sight by being isolated on github may be a very bad one, but hey, lets try.
 
 To Join Us, Do the Following!
 =============================
