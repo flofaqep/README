@@ -1,5 +1,4 @@
-# README
-RTFM
+# README - RTFM
 
 DON'T
 =====
