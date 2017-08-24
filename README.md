@@ -1,8 +1,8 @@
 # README - RTFM
 
 # ABOUT
-This organization should only have GitHub users not connected to or known by any other organization or user.
-Please respect this hiding effort and let me know if the idea is dysfunctional in the first place :) 
+This organization should only have GitHub users not connected to or known by any other organization or user. This means fresh GitHub accounts should be created as explained below to join.
+READ the Entire README before trying to Join! Thank You!
 
 DON'T
 =====
