@@ -1,5 +1,9 @@
 # README - RTFM
 
+# ABOUT
+This organization should only have GitHub users not connected to or known by any other organization or user.
+Please respect this hiding effort and let me know if the idea is dysfunctional in the first place :) 
+
 DON'T
 =====
 Try to mention, share, fork, or anything this repo that coud expose it to the public.
